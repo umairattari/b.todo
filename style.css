@@ -1,0 +1,72 @@
+body{
+    background:royalblue;
+    margin-bottom:20px;
+}
+
+h1 {
+   margin: 0px 500px;
+   padding-top:20px;
+   background:royalblue;
+   }
+
+#val{
+    
+    width:800px;
+    margin-left:250px;
+}
+.btn{
+    margin-left:500px;
+}
+ 
+.project{
+    background:royalblue;
+}
+
+.project-2{
+    background:royalblue;
+    margin-top:20px;
+}
+
+
+    
+
+#list{
+    margin-left:230px;
+    width:820px;
+    margin-bottom: 20px;
+    
+    height:600px;
+    margin-top:20px;
+}
+
+
+
+p{
+    font-size: 60px;
+    margin:50px 0px 30px 0px;
+}
+.tasks{
+    background:greenyellow;
+    
+}
+
+div ol li{
+    margin-left:  0px;
+    background: yellowgreen;
+    
+}
+.trashbutton{
+       
+       background-color:red;
+       border-radius:5px;
+       border-color:red;
+      margin-left:200px;
+      color:white;
+}
+.editbutton{
+
+    background-color:blue;
+    border-radius:5px;
+    border-color:blue;
+    color:white;
+     margin-left:20px;}
